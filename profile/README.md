@@ -4,6 +4,6 @@
 
 **Trade. Share. Asend.** The easy, social, non-custodial way to trade memecoins on BNB Smart Chain.
 
-To report a security issue, see our [security policy](https://github.com/AsendNow/.github/blob/main/SECURITY.md)..
+To report a security issue, see our [security policy](https://github.com/AsendNow/.github/blob/main/SECURITY.md).
 
 [asend.now](https://www.asend.now)
