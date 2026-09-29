@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40d8efe4-b380-4107-ad9a-0650098b77bb" alt="Asend" width="100">
+  <img src="https://github.com/user-attachments/assets/833fdcd4-2a8a-4b85-90a9-db34c04fb85a" alt="Asend" width="100">
 </p>
 
 **Trade. Share. Asend.** The easy, social, non-custodial way to trade memecoins on BNB Smart Chain.
